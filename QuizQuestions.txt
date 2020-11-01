@@ -1,0 +1,15 @@
+1, Who is the First Prime Minister of India?, Nehru, Gandhiji, Sardar Patel, Tilak, A
+2, Who is the current President of India?, Modi, Kovind, Govind, Yogi, B
+3, In which state is the city Cuttack found?, West Bengal, Sikkim, Odisha, Telangana, C
+4, What is the capital of South Korea?, Seoul, Beijing, Bangkok, Kathmandu, A
+5, Who is the father of Sri Rama of Ramayan?, Duryodan, Lakshman, Dasaradh, Raghu, C
+6, What is the capital of Sikkim?, Hyderabad, Calcutta, Ranchi, Gangtok, D
+7, Who invented Pencillin?, Alexander Fleming, Bose, Newton, Toricelli, A
+8, Who's birthday is celebrated as Mathematics Day?, Einstein, Abdul Kalam, Radhakrishnan, Ramanujam, D
+9, Bharata Natyam is a dance form of which state?, Karnataka, Andhra Pradesh, Tamilnadu, Kashmir, C
+10, Where was the game of Chess born?, Russia, USA, England, India, D
+11, Who is the founder of Facebook?, Page, Zuckerberg, Gates, Rockefeller, B
+12, Who is the founder of Microsoft?, Buffet, Zuckerberg, Gates, Letterman, C
+13, What is the capital of Canada?, Toronto, Newark, Ontario, Ottawa, D
+14, Find the odd one out?, Pepsi, Coke, Mountain Dew, Long Island Iced Tea, D
+15, Find the odd one out?, Boeing, Ford, Airbus, Rafale, B
