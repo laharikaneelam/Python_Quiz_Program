@@ -1,2 +1,2 @@
 # Quiz Questions
-Python Program to display a quiz and alott points for each correct answer
+Python Program to display a quiz and allot points for each correct answer
